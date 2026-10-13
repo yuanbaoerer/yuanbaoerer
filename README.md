@@ -1,10 +1,10 @@
 # Hi, I'm Shengbo Wang 👋
 
-平时做数据开发，也在折腾 LLM 和 Agent，研究怎么让它们多干点活。
+I'm a **Data Development Engineer**. I also tinker with LLM apps and agents, hoping they can take some busywork off my hands.
 
-- 🐍 写点 Python、SQL，也接触过 TypeScript / JavaScript、Java、Go、Shell。
-- 🗃️ 和数据打交道：FastAPI、PostgreSQL、SQLite、Redis、RabbitMQ。
-- 🤖 给模型找点事做：RAG、MCP、LangChain、Transformers、vLLM、SGLang。
-- 🧰 工具箱里有 Docker、Linux / WSL2、Git、Claude Code 和 Obsidian。
+- 🐍 Mostly Python and SQL; I've also explored TypeScript / JavaScript, Java, Go, and Shell.
+- 🗃️ On the backend and data side: FastAPI, PostgreSQL, SQLite, Redis, RabbitMQ.
+- 🤖 Giving models things to do: RAG, MCP, LangChain, Transformers, vLLM, SGLang.
+- 🧰 In the toolbox: Docker, Linux / WSL2, Git, Claude Code, Obsidian.
 
-🏂 还喜欢单板滑雪、逛开源项目、折腾效率工具。省下来的时间，有时又花在折腾工具上了。
+🏂 I also enjoy snowboarding, exploring open source, and tinkering with productivity tools. Sometimes the time saved goes straight back into more tinkering.
